@@ -1,1 +1,3 @@
- hola mundo 
+<? 
+echo "hola mundo con php ";
+?>
